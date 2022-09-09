@@ -1,0 +1,15 @@
+.paperAdd{
+    border: 2px dashed #797979;
+    width:870px;
+    background: #F2F2F2;
+    height: 117px;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.addButton{
+    width: 50%;
+    height: 50px;
+    margin-left: 30px;
+}
